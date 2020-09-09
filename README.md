@@ -1,0 +1,2 @@
+# Titanic-Survival-Prediction
+  The Titanic challenge competition on Kaggle  The task is to predict the survival or the death of a given passenger based on a set of variables describing the passenger with various attributes such as age, sex, passenger class on the boat. Worked on some of the parameters from the datasets to predict the passenger survival outcome and achieved an accuracy score of 0.79425 on the public leader board.
